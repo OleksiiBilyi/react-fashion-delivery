@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-fashion-delivery/static/css/main.4bc43b84.css",
+    "main.js": "/react-fashion-delivery/static/js/main.063ea235.js",
+    "Cart.css": "/react-fashion-delivery/static/css/Cart.197f6016.chunk.css",
+    "Cart.js": "/react-fashion-delivery/static/js/Cart.b5913357.chunk.js",
+    "NotFound.css": "/react-fashion-delivery/static/css/NotFound.e9616e52.chunk.css",
+    "NotFound.js": "/react-fashion-delivery/static/js/NotFound.ba8e9aef.chunk.js",
+    "static/media/ADDED_TO_CART_ICON.svg": "/react-fashion-delivery/static/media/ADDED_TO_CART_ICON.4896d4a0632e496f4cb193ac71cf34ee.svg",
+    "static/media/ADD_TO_CART_ICON.svg": "/react-fashion-delivery/static/media/ADD_TO_CART_ICON.c03ab6cb719245cb9b80868520b91620.svg",
+    "static/media/CART_ICON.svg": "/react-fashion-delivery/static/media/CART_ICON.e62fc859aa78935fc0007a9a82da8831.svg",
+    "static/media/DELETE_ICON.svg": "/react-fashion-delivery/static/media/DELETE_ICON.2c6f11b57e1db80fb5605cacb57b8b63.svg",
+    "index.html": "/react-fashion-delivery/index.html",
+    "static/media/CROSS_ICON.svg": "/react-fashion-delivery/static/media/CROSS_ICON.21b5513e0861346d7fdb789a36d6dc89.svg",
+    "static/media/PLUS_ICON.svg": "/react-fashion-delivery/static/media/PLUS_ICON.66440e7a0fce192e2f9a8eb00d8fcb81.svg",
+    "static/media/ARROW_ICON.svg": "/react-fashion-delivery/static/media/ARROW_ICON.05beb4771074b1d60b562a97d84c66f3.svg",
+    "static/media/MINUS_ICON.svg": "/react-fashion-delivery/static/media/MINUS_ICON.d6b41f66510f83a6c3bfd1f6e2bebcd5.svg",
+    "main.4bc43b84.css.map": "/react-fashion-delivery/static/css/main.4bc43b84.css.map",
+    "main.063ea235.js.map": "/react-fashion-delivery/static/js/main.063ea235.js.map",
+    "Cart.197f6016.chunk.css.map": "/react-fashion-delivery/static/css/Cart.197f6016.chunk.css.map",
+    "Cart.b5913357.chunk.js.map": "/react-fashion-delivery/static/js/Cart.b5913357.chunk.js.map",
+    "NotFound.e9616e52.chunk.css.map": "/react-fashion-delivery/static/css/NotFound.e9616e52.chunk.css.map",
+    "NotFound.ba8e9aef.chunk.js.map": "/react-fashion-delivery/static/js/NotFound.ba8e9aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bc43b84.css",
+    "static/js/main.063ea235.js"
+  ]
+}
